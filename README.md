@@ -3,13 +3,14 @@
 
  ### Module 19 Loan Prediction Risk Analysis
  **Deliverable 1, 2:** [AlphabetSoupCharity](AlphabetSoupCharity.ipynb) 
+
  **Deliverable 3:** [AlphabetSoupCharityOptimized](AlphabetSoupCharity_Optimzation.ipynb) 
  
 ## Overview of the Loan Prediction Risk Analysis:
 The purpose of this analysis is to train and test a deep learning neural network on our dataset to predict whether an organization will use the money effectively 
 
 ## Results:
-- The target variable is the "IS_SUCCESSFUL" variable which decides contains either a 1 or 0 which tells us whether the money was used effectively (1: used effectively, 0: not used effectively).
+- The target variable is the "IS_SUCCESSFUL" variable which consists of either a 1 or 0 which tells us whether the money was used effectively (1: used effectively, 0: not used effectively).
 
 - The APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT columns before they are encoded are the features of the neural network
 
