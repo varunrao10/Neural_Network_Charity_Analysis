@@ -3,7 +3,7 @@
 
  ### Module 19 Loan Prediction Risk Analysis
  **Deliverable 1, 2:** [AlphabetSoupCharity](AlphabetSoupCharity.ipynb) 
- **Deliverable 3:** [AlphabetSoupCharityOptimized](AlphabetSoupCharity_Optimization.ipynb) 
+ **Deliverable 3:** [AlphabetSoupCharityOptimized](AlphabetSoupCharity_Optimzation.ipynb) 
  
 ## Overview of the Loan Prediction Risk Analysis:
 The purpose of this analysis is to train and test a deep learning neural network on our dataset to predict whether an organization will use the money effectively 
